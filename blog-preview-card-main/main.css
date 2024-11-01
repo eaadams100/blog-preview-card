@@ -65,7 +65,13 @@ div.content p:nth-child(2) {
   letter-spacing: 0px;
 }
 
-div.content p:nth-child(3) {
+div.content p:last-child {
+  font-size: 1rem;
+}
+
+.title-link {
+  /* color: var(--clr-gray-950); */
+  text-decoration: none;
   font-weight: var(--fnt-800);
   font-size: 1.5rem;
   color: var(--clr-gray-950);
@@ -73,10 +79,12 @@ div.content p:nth-child(3) {
   letter-spacing: 0px;
 }
 
-div.content p:last-child {
-  font-size: 1rem;
+.title-link:hover,
+.title-link:active,
+.title-link:focus {
+  color: var(--clr-yellow);
+  cursor: pointer;
 }
-
 .author {
   display: flex;
   align-items: center;
