@@ -61,10 +61,13 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Areas that I want to continue focusing on in future projects.
+- CSS Grid
+- CSS Positioning
+- Responsive Layouts
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Akoto Emmanuel Adams](https://github.com/eaadams100)
+- Frontend Mentor - [@eaadams100](https://www.frontendmentor.io/profile/eaadams100)
+- X (Twitter) - [@koder_coder](https://x.com/koder_coder)
