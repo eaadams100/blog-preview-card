@@ -9,6 +9,7 @@
   --fnt-800: 800;  
   
 }
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -20,7 +21,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
   font-family: var(--fnt-family);
 }
 
@@ -30,6 +31,9 @@ body {
   height: auto;
   padding: 1.5rem;
   border-radius: 20px;
+
+  border: 1px solid var(--clr-gray-950);
+  box-shadow: 8px 8px 0px;
 }
 
 .learning {
@@ -85,6 +89,7 @@ div.content p:last-child {
   color: var(--clr-yellow);
   cursor: pointer;
 }
+
 .author {
   display: flex;
   align-items: center;
