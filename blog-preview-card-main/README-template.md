@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](/blog-preview-card/blog-preview-card-main/readme-files/solution.png)
+![screenshot](https://github.com/eaadams100/blog-preview-card/blob/main/blog-preview-card-main/readme-files/solution.png)
 
 ### Links
 
