@@ -15,6 +15,11 @@
   margin: 0;
 }
 
+/* @font-face {
+  font-family: 'Figtree';
+  src: url();
+} */
+
 body {
   background-color: var(--clr-yellow);
   height: 100vh;
